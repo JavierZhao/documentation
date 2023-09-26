@@ -21,3 +21,9 @@ However, there are in any case several common remarks to be pointed out, all glu
     <img src="../../images/validation/top_taggers_landscape.png"/>
     <figcaption>Illustration from G. Kasieczka et. al showing ROC curves for all evaluated algorithms.</figcaption>
     </figure>
+
+In addition to the supervised approaches mentioned above, in some cases, it might be desirable to also consider Self-Supervised Learning (SSL). 
+
+> As opposed to *supervised* learning, which is limited by the availability of labeled data, self-supervised approaches can learn from vast unlabeled data. 
+
+Recent advances in (SSL) have shown great potential to benefit studies where large amounts of unlabeled data are available. In particular, vasts amounts of unlabeled data produced by the LHC can be leveraged to improve the performance of ML models via SSL. In the Self-Supervised Learning section, a summary of *A Cookbook for Self-Supervised Learning* will be presented.  
